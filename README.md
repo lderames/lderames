@@ -22,7 +22,7 @@ Hello! I'm **Leonel**, a detail-oriented and strategic data analyst passionate a
 - Preparing for **career opportunities** by refining my resume and project presentations.  
 
 ## 💡 Projects & Work  
-- **Healthcare Dashboard Analysis** – Articulating business impacts and insights for healthcare data.  
+- **Hospital Performance Dashboard Analysis** – Articulating business impacts and insights for healthcare data.  
 - **Financial Planner Dashboard** – Designing a structured financial monitoring system.  
 - **Data Documentation & Walkthroughs** – Creating clear and professional guides for stakeholders.  
 
